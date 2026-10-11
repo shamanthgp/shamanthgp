@@ -33,5 +33,6 @@ I am a software engineer focused on building robust backend systems, optimizing 
 ---
 
 ### 🤝 Connect with Me
+* **Portfolio:** [shamanthgp.github.io](https://shamanthgp.github.io)
 * **LinkedIn:** [in/shamanthgp](https://linkedin.com/in/shamanthgp)
 * **Email:** *Shamanthgp2@gmail.com*
