@@ -3,6 +3,8 @@
 ### 👨‍💻 Software Engineer | Backend & Infrastructure Enthusiast
 I am a software engineer focused on building robust backend systems, optimizing network architectures, and streamlining deployment pipelines. I enjoy diving into complex system designs, data storage solutions, and cloud orchestration.
 
+🌐 **Portfolio:** [shamanthgp.github.io](https://shamanthgp.github.io)
+
 ---
 
 ### 🛠️ Tech Stack & Tools
